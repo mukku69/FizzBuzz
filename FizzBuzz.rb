@@ -10,6 +10,5 @@ def fizzbuzz(number)
   end
 end
 
-a = gets.to_i
-
-puts fizzbuzz(a)
+input = gets.to_i
+puts fizzbuzz(input)

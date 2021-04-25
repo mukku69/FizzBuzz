@@ -10,6 +10,6 @@ def fizzbuzz(number)
   end
 end
 
-puts "数字を入れてください"
+puts "数字を入力してください"
 input = gets.to_i
 puts fizzbuzz(input)
